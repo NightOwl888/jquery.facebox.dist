@@ -1,0 +1,30 @@
+{
+  "name": "jquery.facebox",
+  "main": "jquery.facebox.min.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/snikch/jquery.facebox",
+  "authors": [
+    "Mal Curtis <mal@mal.co.nz>"
+  ],
+  "description": "Facebook-style lightbox jQuery plugin.",
+  "keywords": [
+    "facebox",
+    "lightbox",
+    "dialog",
+	"jquery",
+	"plugin",
+	"facebook"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "*.json",
+	".git",
+    "README.md"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.4.2"
+  }
+}
