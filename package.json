@@ -7,9 +7,9 @@
     "./src/*.css"
   ],
   "files": [
-    "./jquery.facebox.*",
-    "./closelabel.png",
-    "./loading.gif"
+    "jquery.facebox.*",
+    "closelabel.png",
+    "loading.gif"
   ],
   "dependencies": {
     "jquery": ">=1.4.2"
