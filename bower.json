@@ -11,9 +11,9 @@
     "facebox",
     "lightbox",
     "dialog",
-	"jquery",
-	"plugin",
-	"facebook"
+    "jquery",
+    "plugin",
+    "facebook"
   ],
   "license": "MIT",
   "ignore": [
@@ -21,7 +21,7 @@
     "node_modules",
     "bower_components",
     "*.json",
-	".git",
+    ".git",
     "README.md"
   ],
   "dependencies": {
