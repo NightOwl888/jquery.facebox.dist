@@ -2,9 +2,11 @@
   "name": "jquery.facebox",
   "main": "jquery.facebox.min.js",
   "version": "1.4.0",
-  "homepage": "https://github.com/snikch/jquery.facebox",
+  "homepage": "https://github.com/NightOwl888/facebox",
   "authors": [
-    "Mal Curtis <mal@mal.co.nz>"
+	"Chris Wanstrath <chris@ozmm.org>",
+    "Mal Curtis <mal@mal.co.nz>",
+	"Shad Storhaug <shad@shadstorhaug.com>"
   ],
   "description": "Facebook-style lightbox jQuery plugin.",
   "keywords": [
