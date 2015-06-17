@@ -10,7 +10,7 @@
     "jquery.facebox.*",
     "closelabel.png",
     "loading.gif",
-	"LICENSE*"
+    "LICENSE*"
   ],
   "dependencies": {
     "jquery": ">=1.4.2"

@@ -65,7 +65,19 @@
  *   $(document).bind('reveal.facebox', function() { ...stuff to do after the facebox and contents are revealed... })
  *
  */
-(function($) {
+// Support for UMD: https://github.com/umdjs/umd/blob/master/jqueryPluginCommonjs.js
+(function (factory) {
+    if (typeof define === 'function' && define.amd) {
+        // AMD. Register as an anonymous module.
+        define(['jquery'], factory);
+    } else if (typeof exports === 'object') {
+        // Node/CommonJS
+        module.exports = factory(require('jquery'));
+    } else {
+        // Browser globals
+        factory(jQuery);
+    }
+}(function ($) {
   $.facebox = function(data, klass) {
     $.facebox.loading(data.settings || [])
 
@@ -310,4 +322,4 @@
     hideOverlay()
   })
 
-})(jQuery);
+}));
