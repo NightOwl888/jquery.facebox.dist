@@ -8,7 +8,7 @@
     "Mal Curtis <mal@mal.co.nz>",
 	"Shad Storhaug <shad@shadstorhaug.com>"
   ],
-  "description": "Facebook-style lightbox jQuery plugin.",
+  "description": "Facebox is a jQuery-based, Facebook-style lightbox which can display images, divs, or entire remote pages.",
   "keywords": [
     "facebox",
     "lightbox",
@@ -23,8 +23,7 @@
     "node_modules",
     "bower_components",
     "*.json",
-    ".git",
-    "README.md"
+    ".git"
   ],
   "dependencies": {
     "jquery": ">= 1.4.2"
