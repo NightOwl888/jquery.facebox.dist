@@ -1,6 +1,6 @@
 /*
  * Facebox (for jQuery)
- * version: 1.3
+ * version: 1.4.1
  * @requires jQuery v1.2 or later
  * @homepage https://github.com/defunkt/facebox
  *
@@ -96,8 +96,8 @@
     settings: {
       opacity      : 0.2,
       overlay      : true,
-      loadingImage : '/facebox/loading.gif',
-      closeImage   : '/facebox/closelabel.png',
+      loadingImage : '//cdn.jsdelivr.net/jquery.facebox/1.4.1/loading.gif',
+      closeImage   : '//cdn.jsdelivr.net/jquery.facebox/1.4.1/closelabel.png',
       imageTypes   : [ 'png', 'jpg', 'jpeg', 'gif' ],
       faceboxHtml  : '\
     <div id="facebox" style="display:none;"> \

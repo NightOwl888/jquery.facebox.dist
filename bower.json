@@ -1,7 +1,7 @@
 {
   "name": "jquery.facebox",
   "main": "jquery.facebox.min.js",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "homepage": "https://github.com/NightOwl888/facebox",
   "authors": [
     "Chris Wanstrath <chris@ozmm.org>",

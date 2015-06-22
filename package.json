@@ -1,6 +1,6 @@
 {
   "name": "jquery.facebox",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "Facebox is a jQuery-based, Facebook-style lightbox which can display images, divs, or entire remote pages.",
   "main": "jquery.facebox.min.js",
   "style": [
